@@ -34,3 +34,4 @@ class detalhes{
 
 let Streptococcus_pyogenes = new bacteria("0,5 a 1,0μm largura e 0,5 a 2,0μm comprimento", "cocos", "não móvel", "altamente infecciosa", "fissão binária", "aeróbica facultativa", "cadeias longas ou pares");
 let Neisseria_gonorrhoeae = new bacteria("0,6 a 1,0μm largura e 0,6 a 1,5μm comprimento", "diplocos", "não móvel com flagelo", "altamente infecciosa", "fissão binária", "aeróbica", "diplocos");
+let Mycobacterium_tuberculosis = new bacteria("0,2 a 0,6μm largura e 2 a 4μm comprimento", "bacilar", "não móvel", "altamente infecciosa", "fissão binária", "aeróbica", "possíveis colonias");
